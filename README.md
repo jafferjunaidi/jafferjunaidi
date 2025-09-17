@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **MERN, MySQL, PHP, JSON, JavaScript**
 
-- 📫 How to reach me **prog.jaffer@gmail.com**
+- 📫 How to reach me **prog.jafferjunaidi@gmail.com**
 
 - ⚡ Fun fact **I have problem solving mindset**
 
