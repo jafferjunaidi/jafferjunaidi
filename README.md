@@ -67,7 +67,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
 </div>
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jafferjunaidi&show_icons=true&locale=en&layout=compact" alt="jafferjunaidi" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jafferjunaidi&show_icons=true&locale=en" alt="jafferjunaidi" /></p>
 
