@@ -20,7 +20,7 @@
 </p>
 
 <h3 align="left">💻 Languages & Tools:</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<p>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a>
@@ -66,7 +66,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
-</div>
+</p>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jafferjunaidi&show_icons=true&locale=en&layout=compact" alt="jafferjunaidi" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jafferjunaidi&show_icons=true&locale=en" alt="jafferjunaidi" /></p>
