@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/jafferjunaidi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jafferjunaidi" height="30" width="40" /></a>
 </p>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jafferjunaidi&show_icons=true&locale=en&layout=compact" alt="jafferjunaidi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jafferjunaidi&show_icons=true&locale=en" alt="jafferjunaidi" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jafferjunaidi&show_icons=true&locale=en" alt="jafferjunaidi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jafferjunaidi&" alt="jafferjunaidi" /></p>
